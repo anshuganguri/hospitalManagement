@@ -1,4 +1,4 @@
-name: React CD 
+name: React CD (Deploy to GitHub Pages)
 
 on:
   push:
